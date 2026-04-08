@@ -7,4 +7,4 @@ I'm completely new to the world of coding, besides some minor explortation with 
 I'm a big fan of video games! And am working towards eventually becoming a Video Game Designer, while also having the skills to make websites on the side!
 
 ## Contact
-You can reach me at [GitHub] https://github.com/username](https://github.com/BenJPilla
+You can reach me at [GitHub](https://github.com/BenJPilla)
