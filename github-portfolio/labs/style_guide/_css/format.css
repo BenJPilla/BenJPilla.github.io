@@ -1,0 +1,83 @@
+/* General Page Styling */
+body {
+    background-color: #f4f4f4;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+.main-title {
+    text-align: center;
+    text-decoration: underline;
+    font-family: sans-serif;
+}
+
+.header {
+    background-color: #c0c0c0;
+    color: rgb(80, 8, 8);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+    display: block;
+    font-size:x-large
+}
+
+.general {
+    color: rgb(27, 26, 26);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.navlinks {
+    color: rgb(45, 31, 240);
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    font-size: 18px;
+}
+
+.liststyle {
+    list-style-type: square
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.imagetitle {
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(27, 26, 26);
+}
+
+.authors {
+    font-size: 18px;
+    color: #555;
+}
+
+.quote {
+    font-style: italic;
+    color: rgb(27, 26, 26);
+}
+
+.source {
+    font-size: 18px;
+    color: #52beb9;
+}
+
+.comments {
+    font-size: 18px;
+    color: #b85555;
+}
+
+.ratings {
+    font-size: 18px;
+    color: #5a7742;
+    font-weight: 600;
+}
+
+.genre {
+    font-size: 18px;
+    color: #3904cc;
+}
+
+li {
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
