@@ -36,7 +36,7 @@ body {
 }
 
 .liststyle {
-    list-style-type: square
+    list-style-type: square;
     font-family: 'Courier New', Courier, monospace;
 }
 
